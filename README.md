@@ -2,6 +2,9 @@
 This project plays the Snake game using Arduino UNO and 8x8 Dot Matrix.  
 With Joystick, you can control the snake and hear sound effects with Buzzer.
 
+This project was built for learning purposes.
+I developed the logic of the code by working with chatgpt.
+
 ## Materials Used
 - Arduino Uno
 - 8x8 Dot Matrix
